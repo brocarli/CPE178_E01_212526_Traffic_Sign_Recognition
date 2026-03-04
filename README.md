@@ -132,5 +132,3 @@ your-project/
 ```
 
 ---
-
-Good luck with your project! 🎉
