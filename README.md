@@ -130,7 +130,3 @@ your-project/
   ├── class_names.txt         ← created after training
   └── README.md         ← this file
 ```
-
----
-
-Good luck with your project! 🎉
