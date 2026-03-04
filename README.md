@@ -14,7 +14,7 @@ Even if you're a complete beginner, just follow each step in order.
 
 ---
 
-## 📁 Step 1 — Organize Your Dataset
+## 📁 Step 1 — Organizing Your Dataset
 
 Your images must be organized in folders like this:
 
@@ -59,7 +59,7 @@ pip install tensorflow pillow numpy scikit-learn flet
 
 ---
 
-## 🧠 Step 3 — Train the AI Model
+## 🧠 Step 3 — Training the AI Model
 
 In your terminal, run:
 ```
